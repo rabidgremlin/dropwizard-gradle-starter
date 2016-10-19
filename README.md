@@ -9,7 +9,7 @@ Project uses ShadowJar to build an all-in-one, "fat jar".
 
 2. Run
   ```
-  gradle build
+  gradlew build
   ```
 
 3. Start project
